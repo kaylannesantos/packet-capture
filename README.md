@@ -85,9 +85,3 @@ O experimento evidencia o risco de utilizar aplicações web sem criptografia, o
 - [Formulário de captura sem HTTPS](https://github.com/kaylannesantos/packet-capture)
 
 ---
-
-## 👩‍💻 Autora
-
-**Kaylanne Santos**  
-Curso: Análise e Desenvolvimento de Sistemas – IFPI  
-Data da prática: 16/06/2025
